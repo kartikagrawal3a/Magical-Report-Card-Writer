@@ -1190,7 +1190,7 @@ a {
             color: lime;
         }
         .main_hcs span:nth-child(2){
-            color: pink
+            color: #fdffb642;
         }
         .main_hcs span:nth-child(3){
             color: yellow;
@@ -1250,7 +1250,7 @@ a {
             flex-direction: row;
         }
         .tname,.sname{
-            background-color: pink;
+            background-color: #fdffb642;
             border: 1.5px solid black;
             border-radius: 5px;
             padding: 5px 5px 5px 10px;
@@ -1289,7 +1289,7 @@ a {
             margin-left: 0px;
         }
         .class_hcs{
-            background-color: pink;
+            background-color: #fdffb642;
             border: 1.5px solid black;
             margin-left: 0px;
             border-radius: 5px;
@@ -1301,7 +1301,7 @@ a {
             margin-left: 0px;
             padding: 5px 5px 5px 10px;
             border-radius: 5px;
-            background-color: pink;
+            background-color: #fdffb642;
             border: 1.5px solid black;
         }
         .inner2{
@@ -1311,7 +1311,7 @@ a {
             justify-content: flex-start;
         }
         .how-to-use,.feedback{
-            background-color: pink;
+            background-color: #ffba08;
             border: 3px solid #f5f5f5;
             box-shadow: 0 0 7px rgba(0,0,0,0.5);
             margin-left: 30px;
@@ -3851,7 +3851,7 @@ fieldset[disabled] .btn-primary.active {
 
 .btn-success {
     color: #000;
-    background-color: pink;
+    background-color: #ffba08;
     border: 3px solid #f5f5f5;
     box-shadow: 0 0 7px rgba(0,0,0,0.5);
 }
@@ -6654,7 +6654,7 @@ a.list-group-item-danger.active:focus {
 
 .panel-default > .panel-heading {
     color: #333;
-    background-color: pink;
+    background-color: #ffba08;
     border: 2px solid #f5f5f5;
     box-shadow: 0 0 7px rgba(0,0,0,0.5);
 }
@@ -7911,7 +7911,7 @@ body {
 #result #student-name {
     width: 200px;
     margin-right: 20px;
-    background-color: pink;
+    background-color: #fdffb642;
     border: 1.5px solid black;
 }
 
@@ -7950,7 +7950,7 @@ body {
 .controls .select-text {
     float: left;
     color: #000;
-    background-color: pink;
+    background-color: #ffba08;
     border: 3px solid #f5f5f5;
     box-shadow: 0 0 7px rgba(0,0,0,0.5);
     transition: all 0.3s;
@@ -7966,7 +7966,7 @@ body {
 .controls .export {
     float: left;
     color: #000;
-    background-color: pink;
+    background-color: #ffba08;
     border: 3px solid #f5f5f5;
     box-shadow: 0 0 7px rgba(0,0,0,0.5);
     transition: all 0.3s;
@@ -7982,7 +7982,7 @@ body {
 .controls .clear {
     float: right;
     color: #000;
-    background-color: pink;
+    background-color: #ffba08;
     border: 3px solid #f5f5f5;
     box-shadow: 0 0 7px rgba(0,0,0,0.5);
     transition: all 0.3s;
@@ -8007,7 +8007,7 @@ body {
 #help input[type=radio] {
     margin-left: 2em;
     margin-right: 0.5em;
-    background-color: pink;
+    background-color: #fdffb642;
     border: 1.5px solid black;
 }
 
@@ -8029,7 +8029,7 @@ body {
     height: 400px;
     cursor: default;
     border: 2px solid black;
-    background-color: pink;
+    background-color: #fdffb642 ;
     border-radius: 40px;
     padding-left: 30px;
 }
