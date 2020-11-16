@@ -6,7 +6,6 @@ window.onbeforeunload = function (e) {
     e.returnValue = 'Really want to quit the game?';
 };
 
-//Prevent Ctrl+S (and Ctrl+W for old browsers and Edge)
 document.onkeydown = function (e) {
     e = e || window.event;//Get event
 
